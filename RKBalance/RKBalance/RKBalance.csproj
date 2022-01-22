@@ -41,8 +41,5 @@
     <EmbeddedResource Update="Views\VectorGraph.xaml">
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\VectorPage.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </EmbeddedResource>
   </ItemGroup>
 </Project>
