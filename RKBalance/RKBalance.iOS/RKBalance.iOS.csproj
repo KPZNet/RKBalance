@@ -132,13 +132,13 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2291" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2545" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\RKBalance\RKBalance.csproj">
-      <Project>{356F0AA4-4A86-43DA-8785-F4191656990A}</Project>
+      <Project>{07EA1EA5-5146-468A-81D7-0D27A61B8DB3}</Project>
       <Name>RKBalance</Name>
     </ProjectReference>
   </ItemGroup>
